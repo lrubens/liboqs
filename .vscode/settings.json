@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "rng.h": "c",
+        "r5_hash.h": "c",
+        "fips202.h": "c",
+        "sha3.h": "c",
+        "sp800-185.h": "c"
+    }
+}

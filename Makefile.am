@@ -35,6 +35,9 @@ endif
 if ENABLE_KEM_KYBER
 liboqs_la_LIBADD += src/kem/kyber/libkemkyber.la
 endif
+if ENABLE_KEM_ROUND5
+liboqs_la_LIBADD += src/kem/round5/libkemround5.la
+endif
 if ENABLE_KEM_NEWHOPE
 liboqs_la_LIBADD += src/kem/newhope/libkemnewhope.la
 endif
@@ -81,6 +84,7 @@ installheader_HEADERS= src/oqs.h \
 	src/kem/kem.h \
 	src/kem/bike/kem_bike.h \
 	src/kem/kyber/kem_kyber.h \
+	src/kem/round5/kem_round5.h \
 	src/kem/newhope/kem_newhope.h \
 	src/kem/ntru/kem_ntru.h \
 	src/kem/saber/kem_saber.h \
@@ -114,6 +118,7 @@ links:
 	cp -f src/kem/bike/kem_bike.h include/oqs
 ##### OQS_COPY_FROM_PQCLEAN_FRAGMENT_LINKS_START
 	cp -f src/kem/kyber/kem_kyber.h include/oqs
+	cp -f src/kem/round5/kem_round5.h include/oqs
 	cp -f src/kem/newhope/kem_newhope.h include/oqs
 	cp -f src/kem/ntru/kem_ntru.h include/oqs
 	cp -f src/kem/saber/kem_saber.h include/oqs

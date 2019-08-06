@@ -56,6 +56,8 @@ extern "C" {
 #define OQS_KEM_alg_kyber_768 "Kyber768"
 /** Algorithm identifier for Kyber1024 KEM. */
 #define OQS_KEM_alg_kyber_1024 "Kyber1024"
+/** Algorithm identifier for Round5-R5N1_1KEM_0d KEM. */
+#define OQS_KEM_alg_round5_r5n1_1kem_0d "Round5-R5N1_1KEM_0d"
 /** Algorithm identifier for NewHope-512-CCA KEM. */
 #define OQS_KEM_alg_newhope_512cca "NewHope-512-CCA"
 /** Algorithm identifier for NewHope-1024-CCA KEM. */
@@ -106,7 +108,7 @@ extern "C" {
 // EDIT-WHEN-ADDING-KEM
 ///// OQS_COPY_FROM_PQCLEAN_FRAGMENT_ALGS_LENGTH_START
 /** Number of algorithm identifiers above. */
-#define OQS_KEM_algs_length 36
+#define OQS_KEM_algs_length 37
 ///// OQS_COPY_FROM_PQCLEAN_FRAGMENT_ALGS_LENGTH_END
 
 /**
@@ -272,6 +274,7 @@ OQS_API void OQS_KEM_free(OQS_KEM *kem);
 #include <oqs/kem_bike.h>
 ///// OQS_COPY_FROM_PQCLEAN_FRAGMENT_INCLUDE_START
 #include <oqs/kem_kyber.h>
+#include <oqs/kem_round5.h>
 #include <oqs/kem_newhope.h>
 #include <oqs/kem_ntru.h>
 #include <oqs/kem_saber.h>
