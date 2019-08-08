@@ -14,7 +14,7 @@ OQS_KEM *OQS_KEM_newhope_512cca_new() {
 	kem->alg_version = "https://github.com/newhopecrypto/newhope/commit/3fc68c6090b23c56cc190a78af2f43ee8900e9d0";
 
 	kem->claimed_nist_level = 1;
-	kem->ind_cca = true;
+	kem->ind_cca = false;
 
 	kem->length_public_key = OQS_KEM_newhope_512cca_length_public_key;
 	kem->length_secret_key = OQS_KEM_newhope_512cca_length_secret_key;

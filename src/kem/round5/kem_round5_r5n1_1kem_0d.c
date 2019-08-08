@@ -14,7 +14,7 @@ OQS_KEM *OQS_KEM_round5_r5n1_1kem_0d_new() {
 	kem->alg_version = "https://github.com/round5/code/commit/5e9002a5289659a3991321a27a4879c6e11d6fe7";
 
 	kem->claimed_nist_level = 1;
-	kem->ind_cca = true;
+	kem->ind_cca = false;
 
 	kem->length_public_key = OQS_KEM_round5_r5n1_1kem_0d_length_public_key;
 	kem->length_secret_key = OQS_KEM_round5_r5n1_1kem_0d_length_secret_key;

@@ -14,7 +14,7 @@ OQS_KEM *OQS_KEM_kyber_512_new() {
 	kem->alg_version = "https://github.com/pq-crystals/kyber/commit/46e283ab575ec92dfe82fb12229ae2d9d6246682";
 
 	kem->claimed_nist_level = 1;
-	kem->ind_cca = true;
+	kem->ind_cca = false;
 
 	kem->length_public_key = OQS_KEM_kyber_512_length_public_key;
 	kem->length_secret_key = OQS_KEM_kyber_512_length_secret_key;
