@@ -87,6 +87,13 @@ AC_DEFUN([CONFIG_FEATURES],
   ])
   AM_COND_IF([ENABLE_KEM_ROUND5], [
     AC_DEFINE(OQS_ENABLE_KEM_round5_r5n1_1kem_0d, 1, "Define to 1 when Round5-R5N1_1KEM_0d enabled")
+    AC_DEFINE(OQS_ENABLE_KEM_round5_r5n1_3kem_0d, 1, "Define to 1 when Round5-R5N1_3KEM_0d enabled")
+    AC_DEFINE(OQS_ENABLE_KEM_round5_r5n1_5kem_0d, 1, "Define to 1 when Round5-R5N1_5KEM_0d enabled")
+    AC_DEFINE(OQS_ENABLE_KEM_round5_r5nd_1kem_0d, 1, "Define to 1 when Round5-R5ND_1KEM_0d enabled")
+    AC_DEFINE(OQS_ENABLE_KEM_round5_r5nd_3kem_0d, 1, "Define to 1 when Round5-R5ND_3KEM_0d enabled")
+    AC_DEFINE(OQS_ENABLE_KEM_round5_r5nd_3kem_5d, 1, "Define to 1 when Round5-R5ND_3KEM_5d enabled")
+    AC_DEFINE(OQS_ENABLE_KEM_round5_r5nd_5kem_0d, 1, "Define to 1 when Round5-R5ND_5KEM_0d enabled")
+    AC_DEFINE(OQS_ENABLE_KEM_round5_r5nd_5kem_5d, 1, "Define to 1 when Round5-R5ND_5KEM_5d enabled")
   ])
   AM_COND_IF([ENABLE_KEM_NEWHOPE], [
     AC_DEFINE(OQS_ENABLE_KEM_newhope_512cca, 1, "Define to 1 when NewHope-512-CCA enabled")

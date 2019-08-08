@@ -1,0 +1,23 @@
+{
+  "tests/test_kat.py::test_kem[BIKE1-L1]": true,
+  "tests/test_kat.py::test_kem[BIKE1-L3]": true,
+  "tests/test_kat.py::test_kem[BIKE1-L5]": true,
+  "tests/test_kat.py::test_kem[BIKE2-L1]": true,
+  "tests/test_kat.py::test_kem[BIKE2-L3]": true,
+  "tests/test_kat.py::test_kem[BIKE2-L5]": true,
+  "tests/test_kat.py::test_kem[BIKE3-L1]": true,
+  "tests/test_kat.py::test_kem[BIKE3-L3]": true,
+  "tests/test_kat.py::test_kem[BIKE3-L5]": true,
+  "tests/test_kat.py::test_kem[Kyber1024]": true,
+  "tests/test_kat.py::test_kem[Kyber512]": true,
+  "tests/test_kat.py::test_kem[Kyber768]": true,
+  "tests/test_kat.py::test_kem[NewHope-512-CCA]": true,
+  "tests/test_kat.py::test_kem[Round5-R5N1_1KEM_0d]": true,
+  "tests/test_kat.py::test_kem[Round5-R5N1_3KEM_0d]": true,
+  "tests/test_kat.py::test_kem[Round5-R5N1_5KEM_0d]": true,
+  "tests/test_kat.py::test_kem[Round5-R5ND_1KEM_0d]": true,
+  "tests/test_kat.py::test_kem[Round5-R5ND_3KEM_0d]": true,
+  "tests/test_kat.py::test_kem[Round5-R5ND_3KEM_5d]": true,
+  "tests/test_kat.py::test_kem[Round5-R5ND_5KEM_0d]": true,
+  "tests/test_kat.py::test_kem[Round5-R5ND_5KEM_5d]": true
+}

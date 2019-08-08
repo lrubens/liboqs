@@ -7,6 +7,13 @@
 #define OQS_ENABLE_KEM_kyber_768
 #define OQS_ENABLE_KEM_kyber_1024
 #define OQS_ENABLE_KEM_round5_r5n1_1kem_0d
+#define OQS_ENABLE_KEM_round5_r5n1_3kem_0d
+#define OQS_ENABLE_KEM_round5_r5n1_5kem_0d
+#define OQS_ENABLE_KEM_round5_r5nd_1kem_0d
+#define OQS_ENABLE_KEM_round5_r5nd_3kem_0d
+#define OQS_ENABLE_KEM_round5_r5nd_3kem_5d
+#define OQS_ENABLE_KEM_round5_r5nd_5kem_0d
+#define OQS_ENABLE_KEM_round5_r5nd_5kem_5d
 #define OQS_ENABLE_KEM_newhope_512cca
 #define OQS_ENABLE_KEM_newhope_1024cca
 #define OQS_ENABLE_KEM_ntru_hps2048509

@@ -34,7 +34,56 @@ kems:
         pretty_name_full: Round5-R5N1_1KEM_0d
         implementation: clean
         sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'nist_rng.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 80001dfa-c3e2-478f-8705-95bafd3f33d4
+        visual_studio_guid: 81231dfa-c3e2-478f-8705-95bafd3f33d4
+      - 
+        scheme: "r5n1_3kem_0d"
+        pqclean_scheme: round5-r5n1_3kem_0d
+        pretty_name_full: Round5-R5N1_3KEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'nist_rng.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visual_studio_guid: 82341dfa-c3e2-478f-8705-95bafd3f33d4
+      - 
+        scheme: "r5n1_5kem_0d"
+        pqclean_scheme: round5-r5n1_5kem_0d
+        pretty_name_full: Round5-R5N1_5KEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'nist_rng.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visual_studio_guid: 83451dfa-c3e2-478f-8705-95bafd3f33d4
+      - 
+        scheme: "r5nd_1kem_0d"
+        pqclean_scheme: round5-r5nd_1kem_0d
+        pretty_name_full: Round5-R5ND_1KEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'nist_rng.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visual_studio_guid: 84561dfa-c3e2-478f-8705-95bafd3f33d4
+      - 
+        scheme: "r5nd_3kem_0d"
+        pqclean_scheme: round5-r5nd_3kem_0d
+        pretty_name_full: Round5-R5ND_3KEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'nist_rng.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visual_studio_guid: 85671dfa-c3e2-478f-8705-95bafd3f33d4
+      - 
+        scheme: "r5nd_3kem_5d"
+        pqclean_scheme: round5-r5nd_3kem_5d
+        pretty_name_full: Round5-R5ND_3KEM_5d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'nist_rng.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visual_studio_guid: 86781dfa-c3e2-478f-8705-95bafd3f33d4
+      - 
+        scheme: "r5nd_5kem_0d"
+        pqclean_scheme: round5-r5nd_5kem_0d
+        pretty_name_full: Round5-R5ND_5KEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'nist_rng.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visual_studio_guid: 87891dfa-c3e2-478f-8705-95bafd3f33d4
+      - 
+        scheme: "r5nd_5kem_5d"
+        pqclean_scheme: round5-r5nd_5kem_5d
+        pretty_name_full: Round5-R5ND_5KEM_5d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'nist_rng.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visual_studio_guid: 88901dfa-c3e2-478f-8705-95bafd3f33d4
   - 
     name: newhope
     visual_studio_guid: 21ea4719-b334-4625-8d3c-3f48de67f6f2
