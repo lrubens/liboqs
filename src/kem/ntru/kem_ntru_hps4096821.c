@@ -14,7 +14,7 @@ OQS_KEM *OQS_KEM_ntru_hps4096821_new() {
 	kem->alg_version = "https://csrc.nist.gov/CSRC/media/Projects/Post-Quantum-Cryptography/documents/round-2/submissions/NTRU-Round2.zip reference implemntation";
 
 	kem->claimed_nist_level = 5;
-	kem->ind_cca = false;
+	kem->ind_cca = true;
 
 	kem->length_public_key = OQS_KEM_ntru_hps4096821_length_public_key;
 	kem->length_secret_key = OQS_KEM_ntru_hps4096821_length_secret_key;

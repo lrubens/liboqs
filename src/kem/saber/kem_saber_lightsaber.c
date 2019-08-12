@@ -14,7 +14,7 @@ OQS_KEM *OQS_KEM_saber_lightsaber_new() {
 	kem->alg_version = "https://github.com/KULeuven-COSIC/SABER/commit/14ede83f1ff3bcc41f0464543542366c68b55871";
 
 	kem->claimed_nist_level = 1;
-	kem->ind_cca = false;
+	kem->ind_cca = true;
 
 	kem->length_public_key = OQS_KEM_saber_lightsaber_length_public_key;
 	kem->length_secret_key = OQS_KEM_saber_lightsaber_length_secret_key;
