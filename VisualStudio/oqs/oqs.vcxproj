@@ -151,7 +151,6 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\matmul_avx2.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\matmul_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\misc.c" />
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\nist_rng.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\probe_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cca_kem.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cca_pke.c" />
@@ -179,7 +178,6 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\matmul_avx2.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\matmul_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\misc.c" />
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\nist_rng.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\probe_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cca_kem.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cca_pke.c" />
@@ -207,7 +205,6 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\matmul_avx2.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\matmul_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\misc.c" />
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\nist_rng.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\probe_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cca_kem.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cca_pke.c" />
@@ -235,7 +232,6 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_0d_clean\matmul_avx2.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_0d_clean\matmul_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_0d_clean\misc.c" />
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_0d_clean\nist_rng.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_0d_clean\probe_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_0d_clean\r5_cca_kem.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_0d_clean\r5_cca_pke.c" />
@@ -263,7 +259,6 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\matmul_avx2.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\matmul_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\misc.c" />
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\nist_rng.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\probe_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cca_kem.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cca_pke.c" />
@@ -291,7 +286,6 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\matmul_avx2.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\matmul_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\misc.c" />
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\nist_rng.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\probe_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cca_kem.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cca_pke.c" />
@@ -319,7 +313,6 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_0d_clean\matmul_avx2.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_0d_clean\matmul_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_0d_clean\misc.c" />
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_0d_clean\nist_rng.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_0d_clean\probe_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_0d_clean\r5_cca_kem.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_0d_clean\r5_cca_pke.c" />
@@ -347,7 +340,6 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_5d_clean\matmul_avx2.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_5d_clean\matmul_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_5d_clean\misc.c" />
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_5d_clean\nist_rng.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_5d_clean\probe_cm.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_5d_clean\r5_cca_kem.c" />
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_5d_clean\r5_cca_pke.c" />
