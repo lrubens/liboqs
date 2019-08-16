@@ -113,249 +113,6 @@
     <ClCompile Include="..\..\src\kem\kyber\pqclean_kyber1024_clean\symmetric-fips202.c">
       <Filter>kyber\1024</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_1kem_0d.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\a_fixed.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\kem.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\a_random.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\cca_encrypt.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\cpa_kem.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\little_endian.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\matmul.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\matmul_avx2.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\matmul_cm.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\misc.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\probe_cm.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cca_kem.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cca_pke.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cpa_kem.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cpa_pke_n1.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cpa_pke_nd.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_dem.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_hash.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_memory.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\ringmul.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\ringmul_cm.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\shake.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\xe2_c16.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\xe4_c64.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\xe5_c64.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\xef_ref.c">
-      <Filter>round5\r5n1_1kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_3kem_0d.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\a_fixed.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\kem.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\a_random.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\cca_encrypt.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\cpa_kem.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\little_endian.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\matmul.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\matmul_avx2.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\matmul_cm.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\misc.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\probe_cm.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cca_kem.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cca_pke.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cpa_kem.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cpa_pke_n1.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cpa_pke_nd.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_dem.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_hash.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_memory.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\ringmul.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\ringmul_cm.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\shake.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\xe2_c16.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\xe4_c64.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\xe5_c64.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\xef_ref.c">
-      <Filter>round5\r5n1_3kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_5kem_0d.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\a_fixed.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\kem.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\a_random.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\cca_encrypt.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\cpa_kem.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\little_endian.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\matmul.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\matmul_avx2.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\matmul_cm.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\misc.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\probe_cm.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cca_kem.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cca_pke.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cpa_kem.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cpa_pke_n1.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cpa_pke_nd.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_dem.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_hash.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_memory.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\ringmul.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\ringmul_cm.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\shake.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\xe2_c16.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\xe4_c64.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\xe5_c64.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\xef_ref.c">
-      <Filter>round5\r5n1_5kem_0d</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_1kem_0d.c">
       <Filter>round5\r5nd_1kem_0d</Filter>
     </ClCompile>
@@ -437,167 +194,167 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_0d_clean\xef_ref.c">
       <Filter>round5\r5nd_1kem_0d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_3kem_0d.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_0kem_2iot.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\a_fixed.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\a_fixed.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\kem.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\kem.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\a_random.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\a_random.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\cca_encrypt.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\cpa_kem.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\cpa_kem.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\little_endian.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\little_endian.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\matmul.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\matmul.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\matmul_avx2.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\matmul_cm.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\matmul_cm.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\misc.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\misc.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\probe_cm.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\probe_cm.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cca_kem.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cca_pke.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cpa_kem.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cpa_pke_n1.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cpa_pke_nd.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_dem.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\r5_dem.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_hash.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\r5_hash.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_memory.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\r5_memory.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\ringmul.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\ringmul.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\ringmul_cm.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\shake.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\shake.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\xe2_c16.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\xe2_c16.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\xe4_c64.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\xe4_c64.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\xe5_c64.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\xe5_c64.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\xef_ref.c">
-      <Filter>round5\r5nd_3kem_0d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_0kem_2iot_clean\xef_ref.c">
+      <Filter>round5\r5nd_0kem_2iot</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_3kem_5d.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_1kem_5d.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\a_fixed.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\a_fixed.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\kem.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\kem.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\a_random.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\a_random.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\cca_encrypt.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\cpa_kem.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\little_endian.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\little_endian.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\matmul.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\matmul.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\matmul_avx2.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\matmul_cm.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\misc.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\misc.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\probe_cm.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\probe_cm.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cca_kem.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cca_pke.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cpa_kem.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cpa_pke_n1.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cpa_pke_nd.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_dem.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\r5_dem.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_hash.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\r5_hash.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_memory.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\r5_memory.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\ringmul.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\ringmul.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\ringmul_cm.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\shake.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\shake.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\xe2_c16.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\xe4_c64.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\xe5_c64.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\xef_ref.c">
-      <Filter>round5\r5nd_3kem_5d</Filter>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_5d_clean\xef_ref.c">
+      <Filter>round5\r5nd_1kem_5d</Filter>
     </ClCompile>
     <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_5kem_0d.c">
       <Filter>round5\r5nd_5kem_0d</Filter>
@@ -680,6 +437,492 @@
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_0d_clean\xef_ref.c">
       <Filter>round5\r5nd_5kem_0d</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_1kem_4longkey.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\a_fixed.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\kem.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\a_random.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\cpa_kem.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\little_endian.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\matmul.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\matmul_cm.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\misc.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\probe_cm.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\r5_dem.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\r5_hash.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\r5_memory.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\ringmul.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\shake.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\xe2_c16.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\xe4_c64.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\xe5_c64.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1kem_4longkey_clean\xef_ref.c">
+      <Filter>round5\r5nd_1kem_4longkey</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_3kem_5d.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\a_fixed.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\kem.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\a_random.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\little_endian.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\matmul.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\misc.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\probe_cm.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_dem.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_hash.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\r5_memory.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\ringmul.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\shake.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_5d_clean\xef_ref.c">
+      <Filter>round5\r5nd_3kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_3kem_0d.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\a_fixed.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\kem.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\a_random.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\little_endian.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\matmul.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\misc.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\probe_cm.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_dem.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_hash.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\r5_memory.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\ringmul.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\shake.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3kem_0d_clean\xef_ref.c">
+      <Filter>round5\r5n1_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_1kem_0d.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\a_fixed.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\kem.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\a_random.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\little_endian.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\matmul.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\misc.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\probe_cm.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_dem.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_hash.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\r5_memory.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\ringmul.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\shake.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1kem_0d_clean\xef_ref.c">
+      <Filter>round5\r5n1_1kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_5kem_0d.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\a_fixed.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\kem.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\a_random.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\little_endian.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\matmul.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\misc.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\probe_cm.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_dem.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_hash.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\r5_memory.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\ringmul.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\shake.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5kem_0d_clean\xef_ref.c">
+      <Filter>round5\r5n1_5kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_3kem_0d.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\a_fixed.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\kem.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\a_random.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\little_endian.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\matmul.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\misc.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\probe_cm.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_dem.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_hash.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\r5_memory.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\ringmul.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\shake.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3kem_0d_clean\xef_ref.c">
+      <Filter>round5\r5nd_3kem_0d</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_5kem_5d.c">
       <Filter>round5\r5nd_5kem_5d</Filter>
     </ClCompile>
@@ -760,6 +1003,816 @@
     </ClCompile>
     <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5kem_5d_clean\xef_ref.c">
       <Filter>round5\r5nd_5kem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_3ccakem_0smallct.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\a_fixed.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\kem.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\a_random.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\cca_encrypt.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\cpa_kem.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\little_endian.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\matmul.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\matmul_avx2.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\matmul_cm.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\misc.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\probe_cm.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\r5_cca_kem.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\r5_cca_pke.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\r5_cpa_kem.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\r5_dem.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\r5_hash.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\r5_memory.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\ringmul.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\ringmul_cm.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\shake.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\xe2_c16.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\xe4_c64.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\xe5_c64.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0smallct_clean\xef_ref.c">
+      <Filter>round5\r5n1_3ccakem_0smallct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_5ccakem_0d.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\a_fixed.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\kem.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\a_random.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\little_endian.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\matmul.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\misc.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\probe_cm.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\r5_dem.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\r5_hash.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\r5_memory.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\ringmul.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\shake.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_0d_clean\xef_ref.c">
+      <Filter>round5\r5nd_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_3ccakem_0d.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\a_fixed.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\kem.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\a_random.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\little_endian.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\matmul.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\misc.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\probe_cm.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\r5_dem.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\r5_hash.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\r5_memory.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\ringmul.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\shake.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_0d_clean\xef_ref.c">
+      <Filter>round5\r5nd_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_5ccakem_5d.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\a_fixed.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\kem.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\a_random.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\little_endian.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\matmul.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\misc.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\probe_cm.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\r5_dem.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\r5_hash.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\r5_memory.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\ringmul.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\shake.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_5ccakem_5d_clean\xef_ref.c">
+      <Filter>round5\r5nd_5ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_1ccakem_5d.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\a_fixed.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\kem.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\a_random.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\little_endian.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\matmul.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\misc.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\probe_cm.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\r5_dem.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\r5_hash.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\r5_memory.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\ringmul.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\shake.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_5d_clean\xef_ref.c">
+      <Filter>round5\r5nd_1ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_1ccakem_0d.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\a_fixed.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\kem.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\a_random.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\little_endian.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\matmul.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\misc.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\probe_cm.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\r5_dem.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\r5_hash.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\r5_memory.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\ringmul.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\shake.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_1ccakem_0d_clean\xef_ref.c">
+      <Filter>round5\r5nd_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_3ccakem_0d.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\a_fixed.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\kem.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\a_random.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\little_endian.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\matmul.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\misc.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\probe_cm.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\r5_dem.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\r5_hash.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\r5_memory.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\ringmul.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\shake.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_3ccakem_0d_clean\xef_ref.c">
+      <Filter>round5\r5n1_3ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5nd_3ccakem_5d.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\a_fixed.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\kem.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\a_random.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\cca_encrypt.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\cpa_kem.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\little_endian.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\matmul.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\matmul_avx2.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\matmul_cm.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\misc.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\probe_cm.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\r5_cca_kem.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\r5_cca_pke.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\r5_dem.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\r5_hash.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\r5_memory.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\ringmul.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\ringmul_cm.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\shake.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\xe2_c16.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\xe4_c64.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\xe5_c64.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5nd_3ccakem_5d_clean\xef_ref.c">
+      <Filter>round5\r5nd_3ccakem_5d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_5ccakem_0d.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\a_fixed.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\kem.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\a_random.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\little_endian.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\matmul.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\misc.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\probe_cm.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\r5_dem.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\r5_hash.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\r5_memory.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\ringmul.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\shake.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_5ccakem_0d_clean\xef_ref.c">
+      <Filter>round5\r5n1_5ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\kem_round5_r5n1_1ccakem_0d.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\a_fixed.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\kem.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\a_random.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\cca_encrypt.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\cpa_kem.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\little_endian.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\matmul.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\matmul_avx2.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\matmul_cm.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\misc.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\probe_cm.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\r5_cca_kem.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\r5_cca_pke.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\r5_cpa_kem.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\r5_cpa_pke_n1.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\r5_cpa_pke_nd.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\r5_dem.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\r5_hash.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\r5_memory.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\ringmul.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\ringmul_cm.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\shake.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\xe2_c16.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\xe4_c64.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\xe5_c64.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\kem\round5\pqclean_round5-r5n1_1ccakem_0d_clean\xef_ref.c">
+      <Filter>round5\r5n1_1ccakem_0d</Filter>
     </ClCompile>
     <ClCompile Include="..\..\src\kem\newhope\kem_newhope_512cca.c">
       <Filter>newhope\512cca</Filter>
@@ -2682,29 +3735,68 @@
     <Filter Include="round5">
       <UniqueIdentifier>{8db00bac-a963-4875-b0a1-945bfed08038}</UniqueIdentifier>
     </Filter>
-    <Filter Include="round5\r5n1_1kem_0d">
-      <UniqueIdentifier>{81231dfa-c3e2-478f-8705-95bafd3f33d4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="round5\r5n1_3kem_0d">
-      <UniqueIdentifier>{82341dfa-c3e2-478f-8705-95bafd3f33d4}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="round5\r5n1_5kem_0d">
-      <UniqueIdentifier>{83451dfa-c3e2-478f-8705-95bafd3f33d4}</UniqueIdentifier>
-    </Filter>
     <Filter Include="round5\r5nd_1kem_0d">
-      <UniqueIdentifier>{84561dfa-c3e2-478f-8705-95bafd3f33d4}</UniqueIdentifier>
+      <UniqueIdentifier>{}</UniqueIdentifier>
     </Filter>
-    <Filter Include="round5\r5nd_3kem_0d">
-      <UniqueIdentifier>{85671dfa-c3e2-478f-8705-95bafd3f33d4}</UniqueIdentifier>
+    <Filter Include="round5\r5nd_0kem_2iot">
+      <UniqueIdentifier>{}</UniqueIdentifier>
     </Filter>
-    <Filter Include="round5\r5nd_3kem_5d">
-      <UniqueIdentifier>{86781dfa-c3e2-478f-8705-95bafd3f33d4}</UniqueIdentifier>
+    <Filter Include="round5\r5nd_1kem_5d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
     </Filter>
     <Filter Include="round5\r5nd_5kem_0d">
-      <UniqueIdentifier>{87891dfa-c3e2-478f-8705-95bafd3f33d4}</UniqueIdentifier>
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_1kem_4longkey">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_3kem_5d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5n1_3kem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5n1_1kem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5n1_5kem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_3kem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
     </Filter>
     <Filter Include="round5\r5nd_5kem_5d">
-      <UniqueIdentifier>{88901dfa-c3e2-478f-8705-95bafd3f33d4}</UniqueIdentifier>
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5n1_3ccakem_0smallct">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_5ccakem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_3ccakem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_5ccakem_5d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_1ccakem_5d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_1ccakem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5n1_3ccakem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5nd_3ccakem_5d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5n1_5ccakem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="round5\r5n1_1ccakem_0d">
+      <UniqueIdentifier>{}</UniqueIdentifier>
     </Filter>
     <Filter Include="newhope">
       <UniqueIdentifier>{21ea4719-b334-4625-8d3c-3f48de67f6f2}</UniqueIdentifier>

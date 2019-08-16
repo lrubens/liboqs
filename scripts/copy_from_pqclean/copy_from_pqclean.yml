@@ -28,70 +28,164 @@ kems:
     name: round5
     visual_studio_guid: 8db00bac-a963-4875-b0a1-945bfed08038
     schemes:
-      - 
-        scheme: "r5n1_1kem_0d"
-        pqclean_scheme: round5-r5n1_1kem_0d
-        pretty_name_full: Round5-R5N1_1KEM_0d
-        ind_cca: 'false'
-        implementation: clean
-        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 81231dfa-c3e2-478f-8705-95bafd3f33d4
-      - 
-        scheme: "r5n1_3kem_0d"
-        pqclean_scheme: round5-r5n1_3kem_0d
-        pretty_name_full: Round5-R5N1_3KEM_0d
-        ind_cca: 'false'
-        implementation: clean
-        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 82341dfa-c3e2-478f-8705-95bafd3f33d4
-      - 
-        scheme: "r5n1_5kem_0d"
-        pqclean_scheme: round5-r5n1_5kem_0d
-        pretty_name_full: Round5-R5N1_5KEM_0d
-        ind_cca: 'false'
-        implementation: clean
-        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 83451dfa-c3e2-478f-8705-95bafd3f33d4
-      - 
+      -
         scheme: "r5nd_1kem_0d"
         pqclean_scheme: round5-r5nd_1kem_0d
         pretty_name_full: Round5-R5ND_1KEM_0d
         ind_cca: 'false'
         implementation: clean
         sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 84561dfa-c3e2-478f-8705-95bafd3f33d4
-      - 
-        scheme: "r5nd_3kem_0d"
-        pqclean_scheme: round5-r5nd_3kem_0d
-        pretty_name_full: Round5-R5ND_3KEM_0d
+        visula_studio_guid: 5b79593a-55ce-4b42-b0ca-9fc2f16b794f
+      -
+        scheme: "r5nd_0kem_2iot"
+        pqclean_scheme: round5-r5nd_0kem_2iot
+        pretty_name_full: Round5-R5ND_0KEM_2iot
         ind_cca: 'false'
         implementation: clean
         sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 85671dfa-c3e2-478f-8705-95bafd3f33d4
-      - 
-        scheme: "r5nd_3kem_5d"
-        pqclean_scheme: round5-r5nd_3kem_5d
-        pretty_name_full: Round5-R5ND_3KEM_5d
+        visula_studio_guid: 74ac9282-8a6c-4f2e-b5ae-072a8505ed54
+      -
+        scheme: "r5nd_1kem_5d"
+        pqclean_scheme: round5-r5nd_1kem_5d
+        pretty_name_full: Round5-R5ND_1KEM_5d
         ind_cca: 'false'
         implementation: clean
         sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 86781dfa-c3e2-478f-8705-95bafd3f33d4
-      - 
+        visula_studio_guid: 668e15b9-7f94-47a0-b902-78224b3ca494
+      -
         scheme: "r5nd_5kem_0d"
         pqclean_scheme: round5-r5nd_5kem_0d
         pretty_name_full: Round5-R5ND_5KEM_0d
         ind_cca: 'false'
         implementation: clean
         sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 87891dfa-c3e2-478f-8705-95bafd3f33d4
-      - 
+        visula_studio_guid: 0022f349-98a9-4d43-8ffe-a0b393e78abe
+      -
+        scheme: "r5nd_1kem_4longkey"
+        pqclean_scheme: round5-r5nd_1kem_4longkey
+        pretty_name_full: Round5-R5ND_1KEM_4longkey
+        ind_cca: 'false'
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 82612832-ad3e-4eb5-b2a6-ef79558d5dcb
+      -
+        scheme: "r5nd_3kem_5d"
+        pqclean_scheme: round5-r5nd_3kem_5d
+        pretty_name_full: Round5-R5ND_3KEM_5d
+        ind_cca: 'false'
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 180813ea-fd12-433c-94b7-64182320a161
+      -
+        scheme: "r5n1_3kem_0d"
+        pqclean_scheme: round5-r5n1_3kem_0d
+        pretty_name_full: Round5-R5N1_3KEM_0d
+        ind_cca: 'false'
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 51d62b71-0339-4665-8c24-d22c4b30ebaf
+      -
+        scheme: "r5n1_1kem_0d"
+        pqclean_scheme: round5-r5n1_1kem_0d
+        pretty_name_full: Round5-R5N1_1KEM_0d
+        ind_cca: 'false'
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: da8ab460-50fc-47fd-8026-59bde52394ef
+      -
+        scheme: "r5n1_5kem_0d"
+        pqclean_scheme: round5-r5n1_5kem_0d
+        pretty_name_full: Round5-R5N1_5KEM_0d
+        ind_cca: 'false'
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 4dc177f9-85a1-4611-8908-5926245434ae
+      -
+        scheme: "r5nd_3kem_0d"
+        pqclean_scheme: round5-r5nd_3kem_0d
+        pretty_name_full: Round5-R5ND_3KEM_0d
+        ind_cca: 'false'
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 81381283-da85-4a82-8b52-dad10333dfac
+      -
         scheme: "r5nd_5kem_5d"
         pqclean_scheme: round5-r5nd_5kem_5d
         pretty_name_full: Round5-R5ND_5KEM_5d
         ind_cca: 'false'
         implementation: clean
         sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
-        visual_studio_guid: 88901dfa-c3e2-478f-8705-95bafd3f33d4
+        visula_studio_guid: 7d96598a-ea5b-4636-98cc-9263f9a28168
+      -
+        scheme: "r5n1_3ccakem_0smallct"
+        pqclean_scheme: round5-r5n1_3ccakem_0smallct
+        pretty_name_full: Round5-R5N1_3CCAKEM_0smallCT
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 40c4a160-3302-4077-9f04-53c98fa6529c
+      -
+        scheme: "r5nd_5ccakem_0d"
+        pqclean_scheme: round5-r5nd_5ccakem_0d
+        pretty_name_full: Round5-R5ND_5CCAKEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 3371c9c0-6d5e-4f60-a532-a610cf74d8eb
+      -
+        scheme: "r5nd_3ccakem_0d"
+        pqclean_scheme: round5-r5nd_3ccakem_0d
+        pretty_name_full: Round5-R5ND_3CCAKEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: da6759ef-087a-46dd-bff6-51e16ab3b0cd
+      -
+        scheme: "r5nd_5ccakem_5d"
+        pqclean_scheme: round5-r5nd_5ccakem_5d
+        pretty_name_full: Round5-R5ND_5CCAKEM_5d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 9f8e9457-44b2-4f59-8ea5-b136ea2baabe
+      -
+        scheme: "r5nd_1ccakem_5d"
+        pqclean_scheme: round5-r5nd_1ccakem_5d
+        pretty_name_full: Round5-R5ND_1CCAKEM_5d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 953a3716-19a6-47d7-aa1d-5868a7d22f03
+      -
+        scheme: "r5nd_1ccakem_0d"
+        pqclean_scheme: round5-r5nd_1ccakem_0d
+        pretty_name_full: Round5-R5ND_1CCAKEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: e1eb984b-86c9-4d63-8fae-53c0266a3b35
+      -
+        scheme: "r5n1_3ccakem_0d"
+        pqclean_scheme: round5-r5n1_3ccakem_0d
+        pretty_name_full: Round5-R5N1_3CCAKEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 479c53c5-a2e2-4186-938a-9bb503d8f6aa
+      -
+        scheme: "r5nd_3ccakem_5d"
+        pqclean_scheme: round5-r5nd_3ccakem_5d
+        pretty_name_full: Round5-R5ND_3CCAKEM_5d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 6cc059a1-cc27-497b-a5b6-934d126f0d93
+      -
+        scheme: "r5n1_5ccakem_0d"
+        pqclean_scheme: round5-r5n1_5ccakem_0d
+        pretty_name_full: Round5-R5N1_5CCAKEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 9a24bde8-dd9a-4a45-bba2-b7bda8bf8bd6
+      -
+        scheme: "r5n1_1ccakem_0d"
+        pqclean_scheme: round5-r5n1_1ccakem_0d
+        pretty_name_full: Round5-R5N1_1CCAKEM_0d
+        implementation: clean
+        sources: ['a_fixed.c', 'kem.c', 'a_random.c', 'cca_encrypt.c', 'cpa_kem.c', 'little_endian.c', 'matmul.c', 'matmul_avx2.c', 'matmul_cm.c', 'misc.c', 'probe_cm.c', 'r5_cca_kem.c', 'r5_cca_pke.c', 'r5_cpa_kem.c', 'r5_cpa_pke_n1.c', 'r5_cpa_pke_nd.c', 'r5_dem.c', 'r5_hash.c', 'r5_memory.c', 'ringmul.c', 'ringmul_cm.c', 'shake.c', 'xe2_c16.c', 'xe4_c64.c', 'xe5_c64.c', 'xef_ref.c']
+        visula_studio_guid: 803c1491-1049-4d8c-802a-d4312504012d 
   - 
     name: newhope
     visual_studio_guid: 21ea4719-b334-4625-8d3c-3f48de67f6f2
