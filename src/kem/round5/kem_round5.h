@@ -127,7 +127,7 @@ OQS_API OQS_STATUS OQS_KEM_round5_r5nd_5kem_5d_decaps(uint8_t *shared_secret, co
 #ifdef OQS_ENABLE_KEM_round5_r5n1_3ccakem_0smallct
 #define OQS_KEM_round5_r5n1_3ccakem_0smallct_length_public_key 163536
 #define OQS_KEM_round5_r5n1_3ccakem_0smallct_length_secret_key 163584
-#define OQS_KEM_round5_r5n1_3ccakem_0smallct_length_ciphertext 964
+#define OQS_KEM_round5_r5n1_3ccakem_0smallct_length_ciphertext 972
 #define OQS_KEM_round5_r5n1_3ccakem_0smallct_length_shared_secret 24
 OQS_KEM *OQS_KEM_round5_r5n1_3ccakem_0smallct_new();
 OQS_API OQS_STATUS OQS_KEM_round5_r5n1_3ccakem_0smallct_keypair(uint8_t *public_key, uint8_t *secret_key);
@@ -138,7 +138,7 @@ OQS_API OQS_STATUS OQS_KEM_round5_r5n1_3ccakem_0smallct_decaps(uint8_t *shared_s
 #ifdef OQS_ENABLE_KEM_round5_r5nd_5ccakem_0d
 #define OQS_KEM_round5_r5nd_5ccakem_0d_length_public_key 1349
 #define OQS_KEM_round5_r5nd_5ccakem_0d_length_secret_key 1413
-#define OQS_KEM_round5_r5nd_5ccakem_0d_length_ciphertext 1493
+#define OQS_KEM_round5_r5nd_5ccakem_0d_length_ciphertext 1509
 #define OQS_KEM_round5_r5nd_5ccakem_0d_length_shared_secret 32
 OQS_KEM *OQS_KEM_round5_r5nd_5ccakem_0d_new();
 OQS_API OQS_STATUS OQS_KEM_round5_r5nd_5ccakem_0d_keypair(uint8_t *public_key, uint8_t *secret_key);
@@ -149,7 +149,7 @@ OQS_API OQS_STATUS OQS_KEM_round5_r5nd_5ccakem_0d_decaps(uint8_t *shared_secret,
 #ifdef OQS_ENABLE_KEM_round5_r5nd_3ccakem_0d
 #define OQS_KEM_round5_r5nd_3ccakem_0d_length_public_key 983
 #define OQS_KEM_round5_r5nd_3ccakem_0d_length_secret_key 1031
-#define OQS_KEM_round5_r5nd_3ccakem_0d_length_ciphertext 1095
+#define OQS_KEM_round5_r5nd_3ccakem_0d_length_ciphertext 1103
 #define OQS_KEM_round5_r5nd_3ccakem_0d_length_shared_secret 24
 OQS_KEM *OQS_KEM_round5_r5nd_3ccakem_0d_new();
 OQS_API OQS_STATUS OQS_KEM_round5_r5nd_3ccakem_0d_keypair(uint8_t *public_key, uint8_t *secret_key);
@@ -160,7 +160,7 @@ OQS_API OQS_STATUS OQS_KEM_round5_r5nd_3ccakem_0d_decaps(uint8_t *shared_secret,
 #ifdef OQS_ENABLE_KEM_round5_r5nd_5ccakem_5d
 #define OQS_KEM_round5_r5nd_5ccakem_5d_length_public_key 978
 #define OQS_KEM_round5_r5nd_5ccakem_5d_length_secret_key 1042
-#define OQS_KEM_round5_r5nd_5ccakem_5d_length_ciphertext 1269
+#define OQS_KEM_round5_r5nd_5ccakem_5d_length_ciphertext 1285
 #define OQS_KEM_round5_r5nd_5ccakem_5d_length_shared_secret 32
 OQS_KEM *OQS_KEM_round5_r5nd_5ccakem_5d_new();
 OQS_API OQS_STATUS OQS_KEM_round5_r5nd_5ccakem_5d_keypair(uint8_t *public_key, uint8_t *secret_key);
@@ -193,7 +193,7 @@ OQS_API OQS_STATUS OQS_KEM_round5_r5nd_1ccakem_0d_decaps(uint8_t *shared_secret,
 #ifdef OQS_ENABLE_KEM_round5_r5n1_3ccakem_0d
 #define OQS_KEM_round5_r5n1_3ccakem_0d_length_public_key 9660
 #define OQS_KEM_round5_r5n1_3ccakem_0d_length_secret_key 9708
-#define OQS_KEM_round5_r5n1_3ccakem_0d_length_ciphertext 9708
+#define OQS_KEM_round5_r5n1_3ccakem_0d_length_ciphertext 9716
 #define OQS_KEM_round5_r5n1_3ccakem_0d_length_shared_secret 24
 OQS_KEM *OQS_KEM_round5_r5n1_3ccakem_0d_new();
 OQS_API OQS_STATUS OQS_KEM_round5_r5n1_3ccakem_0d_keypair(uint8_t *public_key, uint8_t *secret_key);
@@ -204,7 +204,7 @@ OQS_API OQS_STATUS OQS_KEM_round5_r5n1_3ccakem_0d_decaps(uint8_t *shared_secret,
 #ifdef OQS_ENABLE_KEM_round5_r5nd_3ccakem_5d
 #define OQS_KEM_round5_r5nd_3ccakem_5d_length_public_key 780
 #define OQS_KEM_round5_r5nd_3ccakem_5d_length_secret_key 828
-#define OQS_KEM_round5_r5nd_3ccakem_5d_length_ciphertext 926
+#define OQS_KEM_round5_r5nd_3ccakem_5d_length_ciphertext 934
 #define OQS_KEM_round5_r5nd_3ccakem_5d_length_shared_secret 24
 OQS_KEM *OQS_KEM_round5_r5nd_3ccakem_5d_new();
 OQS_API OQS_STATUS OQS_KEM_round5_r5nd_3ccakem_5d_keypair(uint8_t *public_key, uint8_t *secret_key);
@@ -215,7 +215,7 @@ OQS_API OQS_STATUS OQS_KEM_round5_r5nd_3ccakem_5d_decaps(uint8_t *shared_secret,
 #ifdef OQS_ENABLE_KEM_round5_r5n1_5ccakem_0d
 #define OQS_KEM_round5_r5n1_5ccakem_0d_length_public_key 14636
 #define OQS_KEM_round5_r5n1_5ccakem_0d_length_secret_key 14700
-#define OQS_KEM_round5_r5n1_5ccakem_0d_length_ciphertext 14692
+#define OQS_KEM_round5_r5n1_5ccakem_0d_length_ciphertext 14708
 #define OQS_KEM_round5_r5n1_5ccakem_0d_length_shared_secret 32
 OQS_KEM *OQS_KEM_round5_r5n1_5ccakem_0d_new();
 OQS_API OQS_STATUS OQS_KEM_round5_r5n1_5ccakem_0d_keypair(uint8_t *public_key, uint8_t *secret_key);

@@ -1,7 +1,6 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include "api.h"
-#include "cpa_kem.h"
 #include "r5_cca_kem.h"
 
 int PQCLEAN_ROUND5R5N1_5CCAKEM_0D_CLEAN_crypto_kem_keypair(unsigned char *pk, unsigned char *sk) {
